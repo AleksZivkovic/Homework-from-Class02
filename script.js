@@ -27,7 +27,7 @@ if (!Number.isNaN(parsedInput) && parsedInput >= 1920 && parsedInput <= 2020) {
             alert("You are a Monkey");
         } else if (result === 9) {
             alert("You are a Rooster");
-        } else if (resultc === 10) {
+        } else if (result === 10) {
             alert("You are a Dog");
         } else if (result === 11) {
             alert("You are a Pig");
